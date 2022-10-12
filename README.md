@@ -1,10 +1,10 @@
 # Mastermind
 Mastermind game coding with Vanilla Javascript
 
-![Alt text](./demin.png?raw=true "Preview")
+![Alt text](./mastermind.png?raw=true "Preview")
 
 ## How to play ?
-Go on githubPage : https://popy49.github.io/Game_Demineur/
+Go on githubPage : https://popy49.github.io/Mastermind/
 *******************
 Or 
 *******************
